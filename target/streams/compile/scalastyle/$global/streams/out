@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mscalastyle using config /home/ankit/IdeaProjects/Dig/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala[0m
+[0m[[0minfo[0m] [0mProcessed 1 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 5 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /home/ankit/IdeaProjects/Dig/target[0m

@@ -1,0 +1,82 @@
+<scoverage 
+statement-count="21" statements-invoked="20" statement-rate="95.24" branch-rate="75.00" version="1.0" timestamp="1486114812821">
+    <packages>
+        <package name="com.edu.knoldus" statement-count="21" statements-invoked="20" statement-rate="95.24">
+            <classes>
+                <class 
+                name="com.edu.knoldus.FileMining" filename="com/edu/knoldus/FileMining.scala" statement-count="21" statements-invoked="20" statement-rate="95.24" branch-rate="75.00">
+                    <methods>
+                        <method 
+                        name="com.edu.knoldus/FileMining/drillDownToDirectory" statement-count="21" statements-invoked="20" statement-rate="95.24" branch-rate="75.00">
+                            <statements>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="429" end="730" line="16" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="599" end="610" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="628" end="668" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="778" end="817" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="392" end="427" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="464" end="504" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="545" end="681" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="464" end="497" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="564" end="564" line="19" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="690" end="722" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="606" end="606" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="335" end="346" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="649" end="659" line="21" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="810" end="816" line="30" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="599" end="610" line="20" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="743" end="749" line="25" branch="true" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="628" end="668" line="21" branch="true" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="358" end="427" line="16" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="763" end="823" line="29" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="588" end="596" line="20" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="com.edu.knoldus" class="FileMining" class-type="Class" full-class-name="com.edu.knoldus.FileMining" source="/home/ankit/IdeaProjects/Dig/src/main/scala/com/edu/knoldus/FileMining.scala" method="drillDownToDirectory" start="715" end="715" line="23" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>
